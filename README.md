@@ -2,9 +2,9 @@
 
 A custom dropdown built using HTML, CSS, and JavaScript.
 
-## Demo
+## Live Demo
 
-[🔗 View Project Page](https://github.com/Puru45859/custom-dropdown.git/)
+[Project Page URL](https://puru45859.github.io/custom-dropdown/)
 
 ## How to Run
 
